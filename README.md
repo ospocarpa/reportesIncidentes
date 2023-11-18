@@ -4,9 +4,9 @@
  1. Comision :007
  2. Numero de Grupo : 5
  3. Integrantes :  
-  3.1  Aranda Vera, Vanesa Alejandra Samant
+  3.1  Aranda Vera, Vanesa Alejandra Samanta
   3.2 Hinojosa Campos,Oscar
-  3.3 Espindola Luz
+  3.3 Espindola, Luz Eliana
 
 # Tareas
 
